@@ -5,14 +5,15 @@ I'm a self-taught developer and bootcamp grad with a master's in building engine
 - 🔭 I’m currently working on Travel booking app - admin dashboard
 - 🌱 I’m currently learning Typescript 
 - 📚 Books I’m currently reading: Grokking Algorithms by Aditya Y. Bhargava
-- 📫 Where to find me:
-  <ul>
-    <li>
+- 📫 How to reach me:
+  <div>
+    
       <a href="https://www.linkedin.com/in/liuladniak/">
         Linkedin
       </a>
-    </li>
-  </ul>
+  <a>&nbsp;</a>
+  <p>liuladniak@gmail.com</p>
+ </div>
 
 ## Skills
 
