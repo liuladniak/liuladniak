@@ -8,11 +8,11 @@ I'm a self-taught developer and bootcamp grad with a master's in building engine
 - 📫 How to reach me: <ul>
   <li>  
   <a href="https://www.linkedin.com/in/liuladniak/" target="_blank" rel="noreferrer">Linkedin</a>
-  </li>
-  <li>
+  </li> <li>
  <a href="mailto:liuladniak@gmail.com">Send email</a>
-  </li>
-</ul>
+  </li>  </ul>
+ 
+
 
 
 ## Skills
