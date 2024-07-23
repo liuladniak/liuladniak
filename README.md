@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Liu
+
+I'm a self-taught programmer and bootcamp grad with a master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
 
 <!--
 **liuladniak/liuladniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
