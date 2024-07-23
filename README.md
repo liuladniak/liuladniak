@@ -2,6 +2,18 @@
 
 I'm a self-taught programmer and bootcamp grad with a master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
 
+- 🔭 I’m currently working on Travel booking app - admin dashboard
+- 🌱 I’m currently learning Typescript 
+- 📚 Books I’m currently reading: Grokking Algorithms by Aditya Y. Bhargava
+- 📫 Where to find me:
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/liuladniak/">
+        Linkedin
+      </a>
+    </li>
+  </ul>
+
 ## Skills
 
 <!-- SKILLS:START -->
@@ -28,17 +40,4 @@ I'm a self-taught programmer and bootcamp grad with a master's in building engin
 </p>
 <!-- SKILLS:END -->
 
-<!--
-**liuladniak/liuladniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
