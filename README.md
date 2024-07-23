@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Liu
 
-I'm a self-taught programmer and bootcamp grad with a master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
+I'm a self-taught developer and bootcamp grad with a master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
 
 - 🔭 I’m currently working on Travel booking app - admin dashboard
 - 🌱 I’m currently learning Typescript 
