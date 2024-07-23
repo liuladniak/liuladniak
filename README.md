@@ -6,14 +6,7 @@ I'm a self-taught developer and bootcamp grad with a master's in building engine
 - 🌱 I’m currently learning Typescript 
 - 📚 Books I’m currently reading: Grokking Algorithms by Aditya Y. Bhargava
 - 📫 How to reach me:
-  <div>
-    
-      <a href="https://www.linkedin.com/in/liuladniak/">
-        Linkedin
-      </a>
-  <a>&nbsp;</a>
-  <p>liuladniak@gmail.com</p>
- </div>
+
 
 ## Skills
 
