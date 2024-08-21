@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Liu
 
-I'm a self-taught developer and bootcamp grad with a master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
+I'm a full stack developer and bootcamp grad with a master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
 
-- 🔭 I’m currently working on Travel booking app - admin dashboard
-- 🌱 I’m currently learning Typescript 
-- 📚 Books I’m currently reading: Grokking Algorithms by Aditya Y. Bhargava
+- 🔭 I’m currently working at Brainstation as a Teaching Assistance of Software Engineering Program
+- 🌱 I’m currently learning Typescript and OAuth
+- 📚 Books I’m currently reading: Fundamentals of Software Architecture: An Engineering Approach by Mark Richards
 - 📫 How to reach me: <ul>
   <li>  
   <a href="https://www.linkedin.com/in/liuladniak/" target="_blank" rel="noreferrer">Linkedin</a>
