@@ -4,7 +4,7 @@ I'm a Full stack developer, graduated from Software Engineering program with Mas
 
 - 🔭 I’m currently working at Brainstation as a Teaching Assistant of Software Engineering Program
 - 🌱 I’m currently learning Typescript and Cloud Computing
-- 📚 Books I’m currently reading: Fundamentals of Software Architecture: An Engineering Approach by Mark Richards
+- 📚 Books I’m currently reading: The Magic Mountain by Thomas Mann
 - 📫 How to reach me: <ul>
   <li>  
   <a href="https://www.linkedin.com/in/liuladniak/" target="_blank" rel="noreferrer">Linkedin</a>
