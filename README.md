@@ -3,7 +3,7 @@
 I'm a Full stack developer and a bootcamp grad with Master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
 
 - 🔭 I’m currently working at Brainstation as a Teaching Assistant of Software Engineering Program
-- 🌱 I’m currently learning Typescript and using Stripe for checkouts
+- 🌱 I’m currently learning Typescript and Cloud Computing
 - 📚 Books I’m currently reading: Fundamentals of Software Architecture: An Engineering Approach by Mark Richards
 - 📫 How to reach me: <ul>
   <li>  
