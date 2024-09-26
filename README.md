@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Liu
 
-I'm a Full stack developer and a bootcamp grad with Master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science.
+I'm a Full stack developer, graduated from Software Engineering Programm with Master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science. 
 
 - 🔭 I’m currently working at Brainstation as a Teaching Assistant of Software Engineering Program
 - 🌱 I’m currently learning Typescript and Cloud Computing
