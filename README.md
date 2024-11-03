@@ -3,7 +3,7 @@
 I'm a Full stack developer, graduated from Software Engineering program with Master's in building engineering. I enjoy creating solutions for local businesses and expanding my understanding of computer science. 
 
 - 🔭 I’m currently working at Brainstation as a Teaching Assistant of Software Engineering Program
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning Typescript
 - 📚 Books I’m currently reading: The Magic Mountain by Thomas Mann
 - 📫 How to reach me: <ul>
   <li>  
