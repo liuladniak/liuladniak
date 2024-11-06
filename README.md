@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Liu ✨
+## Hi there 👋, I'm Liu 
 
 A curious Software Engineer based in the U.S. Love creating clean, high-quality solutions.
 
