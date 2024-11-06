@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Liu 
 
-A curious Software Engineer based in the U.S. Love creating clean, high-quality solutions.
+A Software Engineer based in the U.S. Love creating clean, high-quality solutions, am curious about how things work behind the scenes, and have a passion for debugging.
 
-- 🔭 I’m currently working on Dashboard for CityGo app
-- 🌱 I’m currently learning Typescript
+- 🔭 **Current Project**:  Building a Dashboard for the CityGo app to .
+- 🌱 **Currently Learning**: Typescript
 - 📫 How to reach me: <ul>
   <li>  
   <a href="https://www.linkedin.com/in/liuladniak/" target="_blank" rel="noreferrer">Linkedin</a>
