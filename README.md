@@ -18,4 +18,4 @@ A curious Software Engineer based in the U.S. Love creating clean, high-quality 
 ## Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,redux,postgres,mysql,mongodb,supabase,html,css,sass,tailwind,d3,nextjs,postman,npm,jest,git,github,apple,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,redux,postgres,mysql,mongodb,supabase,html,css,sass,tailwind,d3,nextjs,postman,npm,jest,git,github,apple,figma&perline=12)](https://skillicons.dev)
