@@ -17,9 +17,6 @@ A curious Software Engineer based in the U.S. Love creating clean, high-quality 
 
 ## Skills
 
-<!-- SKILLS:START -->
-[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,js,nodejs,nextjs,mysql,postgres,mongodb,postman,html,css,sass,tailwind,d3,git,figma,jest&theme=dark&perline=9)](https://skillicons.dev)
-<!-- SKILLS:END -->
 
 
 <div >
