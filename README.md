@@ -2,7 +2,7 @@
 
 A Software Engineer based in the U.S. Love creating clean, high-quality solutions, am curious about how things work behind the scenes, and have a passion for debugging.
 
-- 🔭 **Current Project**:  Building a Dashboard for the CityGo app to .
+- 🔭 **Current Project**:  Building a Dashboard for the CityGo app.
 - 🌱 **Currently Learning**: Typescript
 - 📫 How to reach me: <ul>
   <li>  
