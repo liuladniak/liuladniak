@@ -4,6 +4,7 @@ A Software Engineer based in the U.S. Love creating clean, high-quality solution
 
 - 🔭 **Current Project**:  Building a Dashboard for the CityGo app.
 - 🌱 **Currently Learning**: Typescript
+- 📚 **Currently Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann & Chris Riccomini
 - 📫 How to reach me: <ul>
   <li>  
   <a href="https://www.linkedin.com/in/liuladniak/" target="_blank" rel="noreferrer">Linkedin</a>
