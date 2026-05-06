@@ -2,7 +2,7 @@
 
 A Software Engineer based in the U.S. Love creating clean, high-quality solutions, curious about app architecture, systems design, and what's happening under the hood.
 
-- 🔭 **Currently**:  Currently: Refactoring CityGo — a full-stack tour booking platform and also exploring where AI genuinely helps, where it falls short, and where it quietly causes harm.
+- 🔭 **Currently**:  Currently: Refactoring CityGo - a full-stack tour booking platform and also exploring where AI genuinely helps, where it falls short, and where it quietly causes harm.
 - 🌱 **Currently Learning**: Typescript
 - 📚 **Currently Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann & Chris Riccomini
 - 📫 How to reach me: <ul>
