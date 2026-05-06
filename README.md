@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Liu 
 
-A Software Engineer based in the U.S. Love creating clean, high-quality solutions, am curious about how things work behind the scenes, and have a passion for debugging.
+A Software Engineer based in the U.S. Love creating clean, high-quality solutions, curious about app architecture, systems design, and what's happening under the hood.
 
-- 🔭 **Current Project**:  Building a Dashboard for the CityGo app.
+- 🔭 **Currently**:  Currently: Refactoring CityGo — a full-stack tour booking platform — while exploring where AI genuinely helps, where it falls short, and where it quietly causes harm.
 - 🌱 **Currently Learning**: Typescript
 - 📚 **Currently Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann & Chris Riccomini
 - 📫 How to reach me: <ul>
