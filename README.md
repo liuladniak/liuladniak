@@ -6,7 +6,7 @@ A Full Stack Developer currently based in the U.S. Love creating clean, high-qua
 * 🔭 **Working on**: Refactoring CityGo - a full-stack tour booking platform built with React, Node.js, and PostgreSQL. Migrating from Knex.js to Drizzle ORM 
 
 * 🤔 **Thinking about**: Where AI genuinely helps, where it overstates its usefulness.
-* 🌱 **Learning**: Typescript, testing, computer hardware
+* 🌱 **Learning**: DevOps, Typescript, testing, computer hardware
 * 📚 **Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann & Chris Riccomini and "The Portable Jung" by C.G. Jung
 * 📫 How to reach me: <ul>
   <li>  
