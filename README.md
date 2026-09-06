@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Liu 
 
-A Full Stack Developer currently based in the U.S. Love creating clean, high-quality solutions, curious about app architecture, systems design, and just having fun.
+A Full Stack Developer (leaning Backend) currently based in the U.S. Love creating clean, high-quality solutions, curious about app architecture, systems design, and just having fun.
 
 **Currently**
 * 🔭 **Working on**: Refactoring CityGo - a full-stack tour booking platform built with React, Node.js, and PostgreSQL. Migrating from Knex.js to Drizzle ORM 
 
 * 🤔 **Thinking about**: Where AI genuinely helps, where it overstates its usefulness.
-* 🌱 **Learning**: DevOps, Typescript, testing, computer hardware
+* 🌱 **Learning**: DevOps, Typescript, testing
 * 📚 **Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann & Chris Riccomini and "The Portable Jung" by C.G. Jung
 * 📫 How to reach me: <ul>
   <li>  
