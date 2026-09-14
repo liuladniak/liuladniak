@@ -8,7 +8,7 @@ Genuinely curious about how systems are put together - architecture, pipelines, 
 * 🔭 **Working on**: Refactoring CityGo - a full-stack tour booking platform built with React, Node.js, and PostgreSQL. Migrating from Knex.js to Drizzle ORM 
 
 * 🤔 **Thinking about**: Where AI genuinely helps, where it overstates its usefulness.
-* 🌱 **Learning**: Testing, DevOps 
+* 🌱 **Learning**: Testing, AI
 * 📚 **Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann
 * 📫 How to reach me: <ul>
   <li>  
