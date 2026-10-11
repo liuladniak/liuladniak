@@ -1,14 +1,13 @@
 ## Hi there 👋, I'm Liu 
 
-A Full Stack Developer with a growing interest in QA engineering. I build clean, reliable solutions and lean into AI as part of how I work.
-
-Genuinely curious about how systems are put together - architecture, pipelines, the edges where things break. Having a background in HVAC engineering is surprisingly good training for that kind of thinking.
+I’m a full-stack developer who builds reliable solutions. I think strong fundamentals are a must, and so is knowing how to use AI well and where to draw the line with it.
+Genuinely curious about how systems are put together: architecture, pipelines, and the edge cases. 
 
 **Currently**
-* 🔭 **Working on**: Refactoring CityGo - a full-stack tour booking platform built with React, Node.js, and PostgreSQL. Migrating from Knex.js to Drizzle ORM 
+* 🔭 **Working on**: Refactoring CityGo - a full-stack tour booking platform. Migrating from Knex.js to Drizzle ORM 
 
-* 🤔 **Thinking about**: Where AI genuinely helps, where it overstates its usefulness.
-* 🌱 **Learning**: Testing, AI
+* 🤔 **Thinking about**: where the truth lies. Brushing up on math and other fundamentals. Bridging the gap between my engineering education and computer science.
+* 🌱 **Learning**: QA, and whether AI can be its own antidote
 * 📚 **Reading**: "Designing Data-Intensive Applications" by Martin Kleppmann
 * 📫 How to reach me: <ul>
   <li>  
